@@ -47,7 +47,7 @@ export const SOCIAL_LINKS = [
     {
     id: '4',
     name: 'WhatsApp',
-    url: 'https://wa.me/97',
+    url: 'https://wa.me/9755562298',
     icon: <MessageCircle className="w-5 h-5" />,
     color: 'hover:bg-[#25D366]',
     textColor: 'hover:text-white'
